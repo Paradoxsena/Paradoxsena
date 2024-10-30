@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=DC143C&width=1000&lines='Se+você+pode+imaginar,+então+você+pode+programar'+:)+" alt="SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=DC143C&width=1000&lines=Se+você+pode+imaginar,+então+você+pode+programar+" alt="SVG" />
   <br>
 </div>
 <div align=center> 
@@ -24,5 +24,5 @@
   </div>
   <br>
 <div align=center>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=836FFF&width=1000&lines=Veja+mais+sobre+meu+perfil+descendo+abaixo!+:D" alt="SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=836FFF&width=1000&lines=Veja+mais+sobre+meu+perfil+descendo+abaixo!" alt="SVG" />
  </div>
