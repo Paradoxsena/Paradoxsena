@@ -3,24 +3,14 @@
 <br>
 
 <div align="center">
-  
-  
+   
   <samp>
       <br>
-      Hello! I'm <b>Ayrton Sena</b>
+      <p font-size="30px">Hello! I'm <b>Ayrton Sena</b></p>
   </samp>
 </div>
 
 <br>
-<br>
-      
-<div align="center">
-  <img src="https://imgur.com/hmD0KIs.png" width="200">
-</div>
-<br>
-<br>
-<br>
-
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Information+Security;" alt="Typing SVG"/>
 </div>
