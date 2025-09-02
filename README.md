@@ -6,7 +6,7 @@
    
   <samp>
       <br>
-      <p font-size="30px">Hello! I'm <b>Ayrton Sena</b></p>
+      <p font-size="300px">Hello! I'm <b>Ayrton Sena</b></p>
   </samp>
 </div>
 
