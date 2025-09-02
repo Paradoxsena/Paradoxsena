@@ -39,7 +39,7 @@
   <img
     height=154
     align="center"
-    alt="Top Language :>"
+    alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=Paradoxsena&theme=midnight-purple&card_width=885"
   />
   </div>
