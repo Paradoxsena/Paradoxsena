@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-      <p font-size="100%">Hello! I'm <b>Ayrton Sena</p>
+      <p font-size="100%">Hello! I'm <b style="color=: purple;">Ayrton Sena<b></p>
 </div>
 
 <br>
@@ -65,11 +65,9 @@
 <br>
 
 <div align="center">
-  <samp>
     <b>
       Contact me:
     </b>
-  </samp>
   <br>
   <br>
 
