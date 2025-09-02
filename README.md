@@ -14,15 +14,6 @@
 <br>
 <br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-  <br>
-
 <div align="center">
   <img
     height=175
@@ -85,10 +76,6 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/paradoxsena/)
   
 </div>
-
-<br>
-
-</details>
 
 <br>
 <br>
