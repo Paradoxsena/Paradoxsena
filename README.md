@@ -3,11 +3,7 @@
 <br>
 
 <div align="center">
-   
-  <samp>
-      <br>
-      <p font-size="50%">Hello! I'm <b>Ayrton Sena</b></p>
-  </samp>
+      <p font-size="50%">Hello! I'm <b>Ayrton Sena</p>
 </div>
 
 <br>
