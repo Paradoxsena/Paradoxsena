@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-      <p font-size="100%">Hello! I'm <b style="color:purple;">Ayrton Sena<b></p>
+      <p font-size="100%">Hello! I'm <b color="purple">Ayrton Sena<b></p>
 </div>
 
 <br>
